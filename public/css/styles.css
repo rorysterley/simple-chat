@@ -1,7 +1,7 @@
 body {
   background-color: #f4f4f4;
 }
-BODY, #userinput {
+body, #userinput {
   font-family: menlo, consolas, monaco, monospace;
   font-size: 16px;
 }
