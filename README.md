@@ -10,6 +10,8 @@ A simple, multi-user real-time chat room using:
 * [Faye](http://faye.jcoglan.com/)
 * [Heroku](https://www.heroku.com/)
 
+__See this project [live](https://morning-mountain-7558.herokuapp.com/).__
+
 
 Contributing to this Project
 ----------------------------
